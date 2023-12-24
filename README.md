@@ -1,7 +1,7 @@
 # YouTube2Tweets
 
 ## Overview
-YouTube2Tweets is an application designed to transform YouTube video content into engaging and informative tweets. This tool leverages advanced Natural Language Processing (NLP) and AI technologies to transcribe videos, summarize their content, and generate tweets that are both insightful and appealing.
+YouTube2Tweets is an application designed to transform YouTube video content into engaging and informative tweets. This tool leverages advanced Natural Language Processing (NLP) and AI technologies to transcribe videos, summarize their content, and generate insightful and appealing tweets.
 
 ## How It Works
 1. **Transcription**: The application starts by fetching the transcript of a YouTube video using the video's ID.
@@ -45,8 +45,10 @@ sequenceDiagram
 - **Tweet Generation**: Engaging tweets crafted using advanced AI models.
 - **Interactive Interface**: User-friendly display of summaries and tweets.
 
-## Usage
-(TBA - Provide instructions on how to use the application, including any installation steps, usage guidelines, etc.)
+## Work IN progress
+- Building a React UI
+- Vector DB support for session maintainence
+
 
 ## Contributing
 Contributions to the YouTube2Tweets project are welcome! If you have suggestions, improvements, or want to contribute code, please feel free to open an issue or submit a pull request.
