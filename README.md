@@ -13,11 +13,6 @@ YouTube2Tweets is an application designed to transform YouTube video content int
 ## Application Architecture
 To understand the architecture and flow of YouTube2Tweets, refer to the diagram below:
 
-![YouTube2Tweets Architecture](https://github.com/bhaskatripathi/YouTube2Tweets/blob/main/Youtube2Tweet.svg)
-
-## Application Architecture
-To understand the architecture and flow of YouTube2Tweets, refer to the diagram below:
-
 ```mermaid
 sequenceDiagram
     participant User
